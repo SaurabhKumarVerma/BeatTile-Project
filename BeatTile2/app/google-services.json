@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "218053264028",
+    "firebase_url": "https://beattile-e97ff.firebaseio.com",
+    "project_id": "beattile-e97ff",
+    "storage_bucket": "beattile-e97ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218053264028:android:3fdb38467bc8f42c",
+        "android_client_info": {
+          "package_name": "trainedge.beattile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218053264028-4v6incd3m62rqbtef0rmo5r0go4tj41f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trainedge.beattile",
+            "certificate_hash": "864f64e5ef0cd50bd4fb67a8802be94d33c26da1"
+          }
+        },
+        {
+          "client_id": "218053264028-10htqge231stvacpgiq8cv3mpb6s5gm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2wYhFhrZMZPO-ho3IXXfu8kOHsfLZEsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218053264028-10htqge231stvacpgiq8cv3mpb6s5gm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
